@@ -1,0 +1,45 @@
+@font-face {
+  font-family: G-Lexend-n7;
+  font-display: swap;
+  src: url('../data/fonts/lexend_v25_wlptgwvFAVdoq2_F94zlCfv0bz1WC9wR_LBte6KuGEo.ttf');
+}
+@font-face {
+  font-family: G-Lexend-n4;
+  font-display: swap;
+  src: url('../data/fonts/lexend_v25_wlptgwvFAVdoq2_F94zlCfv0bz1WCzsW_LBte6KuGEo.ttf');
+}
+@font-face {
+  font-family: G-Lexend-n5;
+  font-display: swap;
+  src: url('../data/fonts/lexend_v25_wlptgwvFAVdoq2_F94zlCfv0bz1WCwkW_LBte6KuGEo.ttf');
+}
+@font-face {
+  font-family: G-Lexend-n6;
+  font-display: swap;
+  src: url('../data/fonts/lexend_v25_wlptgwvFAVdoq2_F94zlCfv0bz1WC-UR_LBte6KuGEo.ttf');
+}
+@font-face {
+  font-family: "G-Open Sans-n4";
+  font-display: swap;
+  src: url('../data/fonts/opensans_v43_memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0C4nY1M2xLER.ttf');
+}
+@font-face {
+  font-family: "G-Material Icons-n4";
+  font-display: swap;
+  src: url('../data/fonts/materialicons_v143_flUhRq6tzZclQEJ-Vdg-IuiaDsNZIhI8tIHh.ttf');
+}
+@font-face {
+  font-family: "G-Playfair Display-n6";
+  font-display: swap;
+  src: url('../data/fonts/playfairdisplay_v39_nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKebukDQZNLo_U2r.ttf');
+}
+@font-face {
+  font-family: "G-Open Sans-n6";
+  font-display: swap;
+  src: url('../data/fonts/opensans_v43_memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1y4nY1M2xLER.ttf');
+}
+@font-face {
+  font-family: "G-Open Sans-n5";
+  font-display: swap;
+  src: url('../data/fonts/opensans_v43_memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjr0C4nY1M2xLER.ttf');
+}
